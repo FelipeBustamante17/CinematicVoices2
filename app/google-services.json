@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918206751183",
+    "project_id": "cinematicvoices-ea83e",
+    "storage_bucket": "cinematicvoices-ea83e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918206751183:android:b051189a3ee7943b89f2ba",
+        "android_client_info": {
+          "package_name": "com.santotomas.cinematicvoices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyZ0StvM8ysBOAqNUKsdeZrXclSOAoBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
